@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello Peeps,
+
+I am excited to learn all about web developement!
